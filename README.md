@@ -4,8 +4,6 @@ the smiley images do not look so good at the moment  :D
 
 # Install
 $ bower install angular-smile
-or
-Clone git Repo
 
 # Using
 ``` HTML
