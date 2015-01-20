@@ -1,8 +1,11 @@
 # angular-smile
 I have programmed a ":) :-) :( :-(" as images when attached to a "&lt;p/>" tag.
+the smiley images do not look so good at the moment  :D
 
 # Install
-Clon git Repo
+$ bower install angular-smile
+or
+Clone git Repo
 
 # Using
 ``` HTML
