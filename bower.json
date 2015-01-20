@@ -1,0 +1,11 @@
+{
+  "name": "angular-smile",
+  "version": "0.0.0",
+  "authors": [
+    "Sebastian Kreissl @circy <sebastian.kreissl@online.de>"
+  ],
+  "description": "a angularjs directive",
+  "main": "lib/angular-smile.js",
+  "license": "MIT",
+  "private": false
+}
