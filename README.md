@@ -5,7 +5,7 @@ the smiley images do not look so good at the moment  :D
 # Install
 $ bower install angular-smile
 
-# Using
+# Use
 ``` HTML
 <!DOCTYPE html>
 <html>
@@ -29,6 +29,6 @@ $ bower install angular-smile
 ```
 
 
-# Licens
+# License
 MIT 
 2015 (c) Sebastian Kreissl
